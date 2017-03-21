@@ -43,4 +43,24 @@ $(document).ready(function() {
     $(".card-hidden8").fadeToggle(500);
   });
 
+  $(".clickable9").hover(function() {
+    $(".card-showing9").fadeToggle(500);
+    $(".card-hidden9").fadeToggle(500);
+  });
+  
+  $(".clickable10").hover(function() {
+    $(".card-showing10").fadeToggle(500);
+    $(".card-hidden10").fadeToggle(500);
+  });
+
+  $(".clickable11").hover(function() {
+    $(".card-showing11").fadeToggle(500);
+    $(".card-hidden11").fadeToggle(500);
+  });
+
+  $(".clickable12").hover(function() {
+    $(".card-showing12").fadeToggle(500);
+    $(".card-hidden12").fadeToggle(500);
+  });
+
 });
