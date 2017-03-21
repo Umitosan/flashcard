@@ -3,6 +3,12 @@ $(document).ready(function() {
   $("body").hover(function() {
   });
 
+  // $("div.col-md-3").hover(function() {
+  //   $(this).find("div").fadeToggle();
+  //
+  // });
+
+
   $(".clickable1").hover(function() {
     $(".card-showing1").fadeToggle(500);
     $(".card-hidden1").fadeToggle(500);
@@ -47,7 +53,7 @@ $(document).ready(function() {
     $(".card-showing9").fadeToggle(500);
     $(".card-hidden9").fadeToggle(500);
   });
-  
+
   $(".clickable10").hover(function() {
     $(".card-showing10").fadeToggle(500);
     $(".card-hidden10").fadeToggle(500);
