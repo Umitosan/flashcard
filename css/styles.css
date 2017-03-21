@@ -1,0 +1,72 @@
+.jumbotron {
+  text-align: center;
+}
+
+.card {
+  width: 23%;
+  height: 300px;
+  border-style: solid;
+  border-color: #33ccff;
+  background-color: #b3ecff;
+  border-width: 5px;
+  border-radius: 30px;
+  text-align: center;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.row {
+  margin-left: 20px;
+}
+
+.row h2 {
+  font-family: cursive;
+}
+
+.card-showing1 {
+}
+.card-hidden1 {
+  display: none;
+}
+
+.card-showing2 {
+}
+.card-hidden2 {
+  display: none;
+}
+
+.card-showing3 {
+}
+.card-hidden3 {
+  display: none;
+}
+
+.card-showing4 {
+}
+.card-hidden4 {
+  display: none;
+}
+
+.card-showing5 {
+}
+.card-hidden5 {
+  display: none;
+}
+
+.card-showing6 {
+}
+.card-hidden6 {
+  display: none;
+}
+
+.card-showing7 {
+}
+.card-hidden7 {
+  display: none;
+}
+
+.card-showing8 {
+}
+.card-hidden8 {
+  display: none;
+}
